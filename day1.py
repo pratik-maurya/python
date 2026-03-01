@@ -1,30 +1,30 @@
-# # Day 1: Python Basics — Variables & Data Types
-# name = "Pratik"
-# age = 25
-# height = 5.9
-# is_student = True
+# Day 1: Python Basics — Variables & Data Types
+name = "Pratik"
+age = 25
+height = 5.9
+is_student = True
 
-# print("Name:", name)
-# print("Age:", age)
-# print("Height:", height)
-# print("Is Student:", is_student)
+print("Name:", name)
+print("Age:", age)
+print("Height:", height)
+print("Is Student:", is_student)
 
-# print(type(name))
-# print(type(age))
-# print(type(is_student))
+print(type(name))
+print(type(age))
+print(type(is_student))
 
-# # String Operations
-# first_name ="Pratik"
-# last_name = "Maurya"
+# String Operations
+first_name ="Pratik"
+last_name = "Maurya"
 
-# full_name = first_name + " " + last_name
-# print("Full Name:", full_name)
+full_name = first_name + " " + last_name
+print("Full Name:", full_name)
 
-# print(f"My name is {first_name} and I am {age} years old.")
-# print(name.upper())
-# print(name.lower())
-# print(name.replace("a", "@"))
-# print(len(name))
+print(f"My name is {first_name} and I am {age} years old.")
+print(name.upper())
+print(name.lower())
+print(name.replace("a", "@"))
+print(len(name))
 
 # 🎯 Your Task (Do this now!)
 # Write a program that:
